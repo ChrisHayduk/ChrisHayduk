@@ -1,4 +1,4 @@
-### Hi there, I'm Chris 👋
+# Hi there, I'm Chris 👋
 
 I'm currently the Lead ML Engineer for Drug Discovery at Deloitte, where I work to develop, orchestrate, and deploy deep learning models to accelerate pharmaceutical research and development.
 
