@@ -13,7 +13,7 @@ I've worked on several LLM-focused projects featured on GitHub:
 - [Athena.ai](https://github.com/ChrisHayduk/athena.ai) - Leveraged GPT-4 and ChromaDB to create a personal knowledge management and chat tool
 - [Multimodal Llama Reinforcement Learning](https://github.com/ChrisHayduk/Multimodal-Llama-Reinforcement-Learning) - A repo designed to create a reinforcement learning agent using only a multimodal LLaMA model
 
-## 📫 How to reach me
+## 📫 How to Reach Me
 
 * Twitter: https://twitter.com/chris_hayduk1
 
