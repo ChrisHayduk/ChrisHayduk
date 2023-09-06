@@ -11,7 +11,7 @@ I've worked on several LLM-focused projects featured on GitHub:
 - [QLoRA for Masked Language Modeling](https://github.com/ChrisHayduk/QLoRA-for-MLM) - Updated QLoRA for use with the masked language modeling objective, enabling efficient finetuning of BERT-family models
 - [Multi-GPU QLoRA](https://github.com/ChrisHayduk/qlora-multi-gpu) - Updated QLoRA to allow for distributed data parallel finetuning, significantly accelerating finetuning workloads
 - [Athena.ai](https://github.com/ChrisHayduk/athena.ai) - Leveraged GPT-4 and ChromaDB to create a personal knowledge management and chat tool
-- [Multimodal Llama Reinforcement Learning](https://github.com/ChrisHayduk/Multimodal-Llama-Reinforcement-Learning) - A repo designed to create a reinforcement learning agent using only a multimodal LLaMA model
+- [LLaMA Thought Cloning](https://github.com/ChrisHayduk/Llama-Thought-Cloning) - A LLaMA-based repreoduction of "Thought Cloning: Learning to Think while Acting by Imitating Human Thinking", demonstrating that a single open source LLM can be used as a world model and reinforcement learning agent
 
 ## 📫 How to Reach Me
 
