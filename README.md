@@ -13,6 +13,18 @@ I've worked on several LLM-focused projects featured on GitHub:
 - [Athena.ai](https://github.com/ChrisHayduk/athena.ai) (work in progress) - Leveraged GPT-4 and ChromaDB to create a personal knowledge management and chat tool
 - [LLaMA Thought Cloning](https://github.com/ChrisHayduk/Llama-Thought-Cloning) (work in progress) - A LLaMA-based repreoduction of "Thought Cloning: Learning to Think while Acting by Imitating Human Thinking", demonstrating that a single open source LLM can be used as a world model and reinforcement learning agent
 
+## 🤗 HuggingFace Projects 
+
+I have also open sourced my LLM models and data on HuggingFace: 
+
+### 📈 Datasets
+
+- [ChrisHayduk/Llama-2-Code-Dataset](https://huggingface.co/datasets/ChrisHayduk/Llama-2-Code-Dataset) - Curated a SQL-focused code instruction set for LLaMA 2. The eval set includes dummy tables so that the trained model can be evaluated for SQL execution accuracy rather than token prediction accuracy. The dataset was processed in a number of ways, including introducing curriculum learning, fixing table inputs, and instruction filtering.
+
+### 🚀 Models
+
+- [ChrisHayduk/OpenGuanaco-13B](https://huggingface.co/ChrisHayduk/OpenGuanaco-13B) - Created an open source recreation of Guanaco using OpenLLaMA.
+
 ## 📫 How to Reach Me
 
 * Twitter: https://twitter.com/chris_hayduk1
