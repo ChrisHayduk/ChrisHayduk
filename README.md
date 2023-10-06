@@ -15,7 +15,7 @@ I've worked on several LLM-focused projects featured on GitHub:
 
 ## 🤗 HuggingFace Projects 
 
-I have also open sourced my LLM models and data on HuggingFace: 
+I have also open sourced some of my LLM models and data on HuggingFace: 
 
 ### 📈 Datasets
 
