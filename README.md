@@ -19,7 +19,7 @@ I have also open sourced some of my LLM models and data on HuggingFace:
 
 ### 📈 Datasets
 
-- [ChrisHayduk/Llama-2-Code-Dataset](https://huggingface.co/datasets/ChrisHayduk/Llama-2-Code-Dataset) - Curated a SQL-focused code instruction set for LLaMA 2. The eval set includes dummy tables so that the trained model can be evaluated for SQL execution accuracy rather than token prediction accuracy. The dataset was processed in a number of ways, including introducing curriculum learning, fixing table inputs, and instruction filtering.
+- [ChrisHayduk/Llama-2-SQL-and-Code-Dataset]([https://huggingface.co/datasets/ChrisHayduk/Llama-2-Code-Dataset](https://huggingface.co/datasets/ChrisHayduk/Llama-2-SQL-and-Code-Dataset)) - Curated a SQL-focused code instruction set for LLaMA 2. The eval set includes dummy tables so that the trained model can be evaluated for SQL execution accuracy rather than token prediction accuracy. The dataset was processed in a number of ways, including introducing curriculum learning, fixing table inputs, and instruction filtering.
 
 ### 🚀 Models
 
