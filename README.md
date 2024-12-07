@@ -6,8 +6,14 @@ In my free time, I build large language model (LLM) powered tools, develop open 
 
 ## 💻 Github Projects 
 
-I've worked on several LLM-focused projects featured on GitHub:
+I've worked on several drug discovery & LLM-focused projects featured on GitHub:
 
+- [Optimized AlphaFold Multimer Vertex AI Pipeline](https://github.com/ChrisHayduk/Optimized-AlphaFold-Multimer-Vertex-AI-Pipeline) - Improved the open source Vertex AI AlphaFold pipeline for multimer input. Improvements include:
+  1. Separating MSAs and predict step into different components
+  2. Parallelizing MSAs
+  3. Allowing for caching of MSAs (both at the individual chain and full protein level)
+  4. Allowing using MSAs for some chains will skipping the MSA step for others (very useful for peptide optimization)
+- [JANUS Peptide](https://github.com/ChrisHayduk/JANUS-Peptide) - Updates the JANUS molecular optimization approach to generate peptide binders using AlphaFold. Leverages a genetic algorithm running on top of AlphaFold to produce the optimized binders.
 - [QLoRA for Masked Language Modeling](https://github.com/ChrisHayduk/QLoRA-for-MLM) - Updated QLoRA for use with the masked language modeling objective, enabling efficient finetuning of BERT-family models
 - [Multi-GPU QLoRA](https://github.com/ChrisHayduk/qlora-multi-gpu) - Updated QLoRA to allow for distributed data parallel finetuning, significantly accelerating finetuning workloads
 - [Athena.ai](https://github.com/ChrisHayduk/athena.ai) (work in progress) - Leveraged GPT-4 and ChromaDB to create a personal knowledge management and chat tool
@@ -28,6 +34,8 @@ I have also open sourced some of my LLM models and data on HuggingFace:
 ## 📫 How to Reach Me
 
 * Twitter: https://twitter.com/chris_hayduk1
+* LinkedIn: https://www.linkedin.com/in/chrishayduk/
+* Substack: https://www.chrishayduk.com/
 
 <!--
 **ChrisHayduk/ChrisHayduk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
