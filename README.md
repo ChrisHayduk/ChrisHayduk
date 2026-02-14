@@ -10,7 +10,7 @@ In my free time, I build open source reproduction of state-of-the-art biology AI
 
 I've worked on several drug discovery & LLM-focused projects featured on GitHub, including:
 
-- [minAlphaFold2](https://github.com/ChrisHayduk/minAlphaFold2) - A mininal, PyTorch-only reproduction of the Nobel Prize-winning AlphaFold2. Inspired by Andrej Karpathy's minGPT.
+- [minAlphaFold2](https://github.com/ChrisHayduk/minAlphaFold2) - A mininal, PyTorch-only reproduction of the Nobel Prize-winning AlphaFold2. Designed to be a useful pedagogical tool for ML folks looking to break into AI for drug discovery. Inspired by Andrej Karpathy's [minGPT](https://github.com/karpathy/minGPT).
 - [Optimized AlphaFold Multimer Vertex AI Pipeline](https://github.com/ChrisHayduk/Optimized-AlphaFold-Multimer-Vertex-AI-Pipeline) - A Vertex AI pipeline highly optimized for using AlphaFold2-multimer in peptide binder optimization loops. Reduced overall runtime by 96% when compared to the original Vertex AI pipeline.
 - [QLoRA for Masked Language Modeling](https://github.com/ChrisHayduk/QLoRA-for-MLM) - Updated QLoRA for use with the masked language modeling objective, enabling efficient finetuning of BERT-family models
 - [Multi-GPU QLoRA](https://github.com/ChrisHayduk/qlora-multi-gpu) - Updated QLoRA to allow for distributed data parallel finetuning, significantly accelerating finetuning workloads
