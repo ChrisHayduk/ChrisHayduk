@@ -1,6 +1,6 @@
 # Hi there, I'm Chris 👋
 
-I am currently a Machine Learning Engineer at Meta working on applied machine learning research for ads ranking models. My work focuses on leveraging graph data, graph neural networks (GNNs), and large language models (LLMs) to improve prediction quality across the entire ads ranking stack.
+I'm currently a Machine Learning Engineer at Meta working on applied machine learning research for ads ranking models. My work focuses on leveraging graph data, graph neural networks (GNNs), and large language models (LLMs) to improve prediction quality across the entire ads ranking stack.
 
 Previously, I was the Lead ML Engineer for Drug Discovery at Deloitte, where I work to develop, orchestrate, and deploy deep learning models to accelerate pharmaceutical research and development.
 
