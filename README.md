@@ -12,6 +12,7 @@ I've worked on several drug discovery & LLM-focused projects featured on GitHub,
 
 - [minAlphaFold2](https://github.com/ChrisHayduk/minAlphaFold2) - A mininal, PyTorch-only reproduction of the Nobel Prize-winning AlphaFold2. Designed to be a useful pedagogical tool for ML folks looking to break into AI for drug discovery. Inspired by Andrej Karpathy's [minGPT](https://github.com/karpathy/minGPT).
 - [Optimized AlphaFold Multimer Vertex AI Pipeline](https://github.com/ChrisHayduk/Optimized-AlphaFold-Multimer-Vertex-AI-Pipeline) - A Vertex AI pipeline highly optimized for using AlphaFold2-multimer in peptide binder optimization loops. Reduced overall runtime by 96% when compared to the original Vertex AI pipeline.
+- [JANUS Peptide](https://github.com/ChrisHayduk/JANUS-Peptide) - An evolutionary optimization loop designed for optimizing peptide binders. Leverages the aforementioned AF2-multimer Vertex AI pipeline. Inspired by [JANUS: Parallel Tempered Genetic Algorithm Guided by Deep Neural Networks for Inverse Molecular Design](https://github.com/aspuru-guzik-group/JANUS)
 - [QLoRA for Masked Language Modeling](https://github.com/ChrisHayduk/QLoRA-for-MLM) - Updated QLoRA for use with the masked language modeling objective, enabling efficient finetuning of BERT-family models
 - [Multi-GPU QLoRA](https://github.com/ChrisHayduk/qlora-multi-gpu) - Updated QLoRA to allow for distributed data parallel finetuning, significantly accelerating finetuning workloads
 
